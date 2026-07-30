@@ -44,9 +44,7 @@ My focus is on writing maintainable code, improving UI quality, and building app
 </p>
 
 ## GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyandes&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jeremyandes)](https://git.io/streak-stats)
 
 ## Contact
 <p>
